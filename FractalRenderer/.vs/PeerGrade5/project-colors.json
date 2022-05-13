@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b74cb27-ca29-42f6-ae0d-6edec049705d": {
+      "ProjectGuid": "8b74cb27-ca29-42f6-ae0d-6edec049705d",
+      "DisplayName": "Fractals",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

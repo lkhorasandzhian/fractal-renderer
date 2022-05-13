@@ -1,0 +1,462 @@
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\PeerGrade5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.5\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.6\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.7\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.8\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\salib\YandexDisk\Методическая работа\Репетит\Левон\v_1.9\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9_remake\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.0\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.1\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.1 — копия\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.3 beta\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 full\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 commented\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\v_2.4 commented + trycatch\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\source\repos\CS_solutions\PeerGrade\PeerGrade5\v_2.6 — released\PeerGrade5\Fractals\obj\Debug\net5.0-windows\refint\Fractals.dll
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.exe
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.deps.json
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\bin\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.cache
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals_MarkupCompile.lref
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.g.resources
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.dll
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\refint\Fractals.dll
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.pdb
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\Fractals.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\fractal-renderer\FractalRenderer\Fractals\obj\Debug\net5.0-windows\ref\Fractals.dll

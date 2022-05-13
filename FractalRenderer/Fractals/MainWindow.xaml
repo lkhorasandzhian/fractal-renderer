@@ -1,0 +1,70 @@
+﻿<Window x:Class="Fractals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fractals"
+        mc:Ignorable="d"
+        Title="Fractal Painter" Height="500" Width="1000" Cursor="Pen">
+    <Grid>
+        <DockPanel Background="Bisque" Margin="0, 0, 0, 0">
+            <Menu DockPanel.Dock="Top" VerticalAlignment="Top" Height="22">
+                <MenuItem x:Name="FirstFractal" Header="Fractal Tree" FontSize="15" Height="22" Click="FirstFractal_Click"></MenuItem>
+                <MenuItem x:Name="SecondFractal" Header="Koch's Curve" FontSize="15" Height="22" Click="SecondFractal_Click"></MenuItem>
+                <MenuItem x:Name="ThirdFractal" Header="Sierpinski's Carpet" FontSize="15" Height="22" Click="ThirdFractal_Click"></MenuItem>
+                <MenuItem x:Name="FourthFractal" Header="Sierpinski's Triangle" FontSize="15" Height="22" Click="FourthFractal_Click"></MenuItem>
+                <MenuItem x:Name="FifthFractal" Header="Cantor's Set" FontSize="15" Height="22" Click="FifthFractal_Click"></MenuItem>
+                <MenuItem x:Name="Help" Foreground="Red" Header="Help" FontSize="15" Height="22" Click="Help_Click"></MenuItem>
+            </Menu>
+
+            <StackPanel Width="150" Orientation="Vertical" HorizontalAlignment="Left" Background="LightSteelBlue">
+                <TextBlock Text="Настройки:" FontSize="21" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center" Width="120" Height="30"/>
+                <TextBlock Text="──── • ✤ • ────" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30"/>
+                <TextBlock x:Name="depthLabel" Text="     Глубина:" FontSize="21" Foreground="Black" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <ComboBox x:Name="depthSelector" Visibility="Collapsed">
+                    <TextBlock Text="2"></TextBlock>
+                    <TextBlock Text="3"></TextBlock>
+                    <TextBlock Text="4"></TextBlock>
+                    <TextBlock Text="5"></TextBlock>
+                    <TextBlock Text="6"></TextBlock>
+                    <TextBlock Text="7"></TextBlock>
+                    <TextBlock Text="8"></TextBlock>
+                    <TextBlock Text="9"></TextBlock>
+                    <TextBlock Text="10"></TextBlock>
+                    <TextBlock Text="11"></TextBlock>
+                </ComboBox>
+                <TextBlock x:Name="separator1" Text="  ━━━ • ✙ • ━━━" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <TextBlock x:Name="segmentRatioLabel" Text=" Отн. отрезков:" FontSize="21" Foreground="Black" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <ComboBox x:Name="segmentRatioSelector" Visibility="Collapsed">
+                    <TextBlock Text="3 : 5"></TextBlock>
+                    <TextBlock Text="3 : 4"></TextBlock>
+                    <TextBlock Text="4 : 5"></TextBlock>
+                </ComboBox>
+                <TextBlock x:Name="separator2" Text="  ━━━ • ✙ • ━━━" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <TextBlock x:Name="firstTiltAngleLabel" Text="   Наклон №1:" FontSize="21" Foreground="Black" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <Slider x:Name="firstTiltAngleSlider" Maximum="1.57" Minimum="0" Visibility="Collapsed"></Slider>
+                <TextBlock x:Name="separator3" Text="  ━━━ • ✙ • ━━━" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <TextBlock x:Name="secondTiltAngleLabel" Text="   Наклон №2:" FontSize="21" Foreground="Black" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <Slider x:Name="secondTiltAngleSlider" Maximum="1.57" Minimum="0" Visibility="Collapsed"></Slider>
+                <TextBlock x:Name="separator4" Text="  ━━━ • ✙ • ━━━" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <TextBlock x:Name="distanceLabel" Text="   Расстояние:" FontSize="21" Foreground="Black" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <ComboBox x:Name="distanceSelector" Width="150" Height="22" Visibility="Collapsed">
+                    <TextBlock Text="20"></TextBlock>
+                    <TextBlock Text="25"></TextBlock>
+                    <TextBlock Text="30"></TextBlock>
+                    <TextBlock Text="35"></TextBlock>
+                    <TextBlock Text="40"></TextBlock>
+                    <TextBlock Text="45"></TextBlock>
+                    <TextBlock Text="50"></TextBlock>
+                </ComboBox>
+                <TextBlock x:Name="separator5" Text="  ━━━ • ✙ • ━━━" FontSize="22" Foreground="DarkBlue" HorizontalAlignment="Center" Width="150" Height="30" Visibility="Collapsed"/>
+                <Button x:Name="launchButton" Click="LaunchButton_Click" Visibility="Collapsed">
+                    <Label Content="Перерисовать" Foreground="Green" FontWeight="DemiBold" FontSize="19"></Label>
+                </Button>
+            </StackPanel>
+            <Canvas x:Name="drawningField">
+                <!-- Здесь должна быть отрисовка фрактала -->
+            </Canvas>
+        </DockPanel>
+    </Grid>
+</Window>
